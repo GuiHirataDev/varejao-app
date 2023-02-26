@@ -15,5 +15,9 @@ export const LinkWpp = styled(Link)`
 `
 
 export const MainContent = styled.main`
+    width: 100%;
     
+    img {
+        width: 100%;
+    }
 `

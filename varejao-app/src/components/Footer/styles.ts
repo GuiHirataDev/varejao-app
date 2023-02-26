@@ -14,7 +14,10 @@ export const Footer = styled.footer`
     width: 50px;
     height: 50px;
     margin: 20px auto 0px auto;
-    background-color: blue;
+
+    background-color: var(--color-white-fixed);
+    border: 1px solid var(--color-green-1);
+    border-radius: 50%;
   }
 
   .alldress-phone {
