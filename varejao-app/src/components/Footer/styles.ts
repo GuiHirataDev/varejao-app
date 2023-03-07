@@ -5,6 +5,7 @@ export const Footer = styled.footer`
   height: 400px;
   display: flex;
   flex-direction: column;
+  margin-top: 10px;
 
   background-color: var(--color-orange-1);
 
